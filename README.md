@@ -18,4 +18,5 @@ This C++ console application allows students and tutors to register, schedule, a
 - Add user authentication with passwords
 - Improve UI with a menu-driven interface
 - Store data in a database ( MySQL)
-
+## Author
+Yonatan Azmir(Yo-ezmir)
